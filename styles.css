@@ -1,2 +1,33 @@
 /* Move your styles here when you're ready to clean up your HTML file */
 /* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
+
+body{
+  margin: 50px;
+}
+
+.class-list{
+  list-style-type: square;
+}
+
+.even{
+  background-color: grey;
+}
+
+.odd{
+  background-color: black;
+  color: white;
+}
+
+.item{
+  border: 100px;
+}
+
+.item1{
+  font-size: 30px;
+}
+
+.item2{
+  text-align: right;
+}
+
+selctor:psed
